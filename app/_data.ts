@@ -1,7 +1,7 @@
 export const data = [
   {
     id: "1",
-    name: "bleach",
+    name: "Bleach",
     image: {
       original:
         "https://m.media-amazon.com/images/M/MV5BZjE0YjVjODQtZGY2NS00MDcyLThhMDAtZGQwMTZiOWNmNjRiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg",
@@ -13,7 +13,7 @@ export const data = [
   },
   {
     id: "2",
-    name: "black_clover",
+    name: "Black Clover",
     image: {
       original:
         "https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg",
@@ -25,7 +25,7 @@ export const data = [
   },
   {
     id: "3",
-    name: "dragon_ball",
+    name: "Dragon Ball Z",
     image: {
       original:
         "https://m.media-amazon.com/images/M/MV5BMGMyOThiMGUtYmFmZi00YWM0LWJiM2QtZGMwM2Q2ODE4MzhhXkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_FMjpg_UX1000_.jpg",
@@ -37,7 +37,7 @@ export const data = [
   },
   {
     id: "4",
-    name: "jujutsu_kaisen",
+    name: "Jujutsu Kaisen",
     image: {
       original:
         "https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/88/Anime_Key_Visual_2.png/revision/latest?cb=20201212034001",
@@ -49,7 +49,7 @@ export const data = [
   },
   {
     id: "5",
-    name: "fma_brotherhood",
+    name: "FMA Brotherhood",
     image: {
       original:
         "https://m.media-amazon.com/images/M/MV5BZmEzN2YzOTItMDI5MS00MGU4LWI1NWQtOTg5ZThhNGQwYTEzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
@@ -61,7 +61,7 @@ export const data = [
   },
   {
     id: "6",
-    name: "naruto",
+    name: "Naruto",
     image: {
       original:
         "https://m.media-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
@@ -73,7 +73,7 @@ export const data = [
   },
   {
     id: "7",
-    name: "gintama",
+    name: "Gintama",
     image: {
       original:
         "https://m.media-amazon.com/images/M/MV5BMDkxZTJjZTEtMDRjMy00Yzk1LWI5YjItMjIwYmVlYzhlZWZhXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_FMjpg_UX1000_.jpg",
@@ -85,7 +85,7 @@ export const data = [
   },
   {
     id: "9",
-    name: "one_piece",
+    name: "One Piece",
     image: {
       original:
         "https://m.media-amazon.com/images/M/MV5BODcwNWE3OTMtMDc3MS00NDFjLWE1OTAtNDU3NjgxODMxY2UyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
@@ -97,7 +97,7 @@ export const data = [
   },
   {
     id: "10",
-    name: "demon_slayer",
+    name: "Demon Slayer",
     image: {
       original:
         "https://m.media-amazon.com/images/M/MV5BZjZjNzI5MDctY2Y4YS00NmM4LTljMmItZTFkOTExNGI3ODRhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
@@ -109,7 +109,7 @@ export const data = [
   },
   {
     id: "11",
-    name: "attack_on_titan",
+    name: "Attack On Titan",
     image: {
       original: "https://flxt.tmsimg.com/assets/p10701949_b_v8_ah.jpg",
     },
@@ -120,7 +120,7 @@ export const data = [
   },
   {
     id: "12",
-    name: "hunter_x_hunter",
+    name: "Hunter x Hunter",
     image: {
       original:
         "https://m.media-amazon.com/images/M/MV5BZjNmZDhkN2QtNDYyZC00YzJmLTg0ODUtN2FjNjhhMzE3ZmUxXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg",
@@ -132,7 +132,7 @@ export const data = [
   },
   {
     id: "13",
-    name: "boku_no_hero_academia",
+    name: "Boku No Hero Academia",
     image: {
       original:
         "https://i.pinimg.com/736x/0f/7f/ee/0f7feeb4655ffc029d1b9823bafb2ff8.jpg",
